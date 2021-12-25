@@ -6,11 +6,11 @@
 body {
   font-family: Calibri, Arial, Helvetica, sans-serif;
 background-color: #F9F9ED;
+   text-align: center;
 }
 
 header, footer {
-  text-align: center;
-  background-color: #648381;
+   background-color: #648381;
   color: #ffff;
   padding: 15px
 }
@@ -42,12 +42,13 @@ img {
 
 li{
   padding: 5px;
+  list-style-position: inside;
 }
 
 /* links design */
 
 a:link {
-  color: #648381;
+  color: #253C78;
 }
 
 a:visited {
