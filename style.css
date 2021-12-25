@@ -24,6 +24,11 @@ margin-left: 25px;
 margin-right: 25px;
 }
 
+footer {
+  font-size: 18px;
+  font-weight: 600;
+}
+
 /* divider editing */
 
 hr {
